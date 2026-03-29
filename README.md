@@ -35,8 +35,8 @@ Git | GitHub | Postman | Docker
 
 ##  GitHub Stats
 
-![Devina's GitHub stats](https://github-readme-stats.vercel.app/api?username=devina-agr\&show_icons=true\&theme=tokyonight)
+![Devina's GitHub stats](https://github-readme-stats.vercel.app/api?username=devina-agr&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devina-agr\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devina-agr&layout=compact\&theme=tokyonight)
 
 
