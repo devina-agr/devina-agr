@@ -31,4 +31,8 @@ MongoDB
 **Tools & Platforms:**
 Git | GitHub | Postman | Docker
 
+---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devina-agr" alt="Devina Agrawal" />
+</p>
