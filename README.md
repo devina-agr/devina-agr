@@ -31,13 +31,4 @@ MongoDB
 **Tools & Platforms:**
 Git | GitHub | Postman | Docker
 
----
-
-
-##  GitHub Stats
-
-[![Devina's GitHub stats](https://github-readme-stats.vercel.app/api?username=devina-agr)](https://github.com/devina-agr/github-readme-stats)   
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devina-agr&layout=compact&theme=tokyonight)
-
 
