@@ -1,6 +1,6 @@
 # Hi, I'm Devina Agrawal
 
--  3rd Year Computer Science Student 
+-  4th Year Computer Science Student 
 -  Aspiring Software Developer | Full Stack Enthusiast
 -  Passionate about building scalable applications and solving real-world problems
 
